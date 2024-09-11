@@ -1,0 +1,17 @@
+* {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #ACC8E5;
+    color: #112A46;
+}
+
+li {
+    text-align: justify;
+}
+
+img {
+    border-radius: 15px;
+    border: 9px;
+    border-color: #112A46;
+    border-style: solid;
+}
